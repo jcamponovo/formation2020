@@ -9,3 +9,4 @@ ipyvuetify
 bqplot
 panda
 voila
+voila-vuetify
