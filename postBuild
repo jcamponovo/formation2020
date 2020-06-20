@@ -14,3 +14,4 @@ jupyter trust new.ipynb
 
 jupyter nbextension     enable --py --sys-prefix appmode
 jupyter serverextension enable --py --sys-prefix appmode
+jupyter nbextension enable --py --sys-prefix ipyvuetify
