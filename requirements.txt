@@ -11,3 +11,4 @@ panda
 voila
 voila-vuetify
 nbconvert
+rise
