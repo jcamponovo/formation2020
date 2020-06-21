@@ -10,3 +10,4 @@ bqplot
 panda
 voila
 voila-vuetify
+nbconvert
