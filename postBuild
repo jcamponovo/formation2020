@@ -5,6 +5,10 @@ jupyter nbextension enable --py widgetsnbextension
 jupyter nbextension enable python-markdown/main
 jupyter nbextension enable rubberband/main
 jupyter nbextension enable exercise2/main
+jupyter nbextension enable hide_input/main
+jupyter nbextension enable init_cell/main
+jupyter nbextension enable autoscroll/main
+jupyter nbextension enable toggle_all_line_numbers/main
 jupyter nbextension     enable --py --sys-prefix appmode
 jupyter serverextension enable --py --sys-prefix appmode
 jupyter nbextension enable --py --sys-prefix ipyvuetify
