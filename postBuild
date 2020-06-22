@@ -17,6 +17,7 @@ jupyter nbextension enable --py --sys-prefix ipyvuetify
 jupyter trust environnement.ipynb
 jupyter trust exploitation.ipynb
 jupyter trust refraction2.ipynb
+jupyter trust refraction2_pres.ipynb
 jupyter trust refraction3.ipynb
 jupyter trust new.ipynb
 
