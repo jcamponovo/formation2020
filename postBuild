@@ -4,7 +4,6 @@ jupyter contrib nbextension install --user
 jupyter nbextension enable --py widgetsnbextension
 jupyter nbextension enable python-markdown/main
 jupyter nbextension enable rubberband/main
-jupyter nbextension enable code_prettify/autopep8
 jupyter nbextension enable freeze/main
 jupyter nbextension enable exercise2/main
 jupyter nbextension enable collapsible_headings/main
