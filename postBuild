@@ -11,6 +11,7 @@ jupyter nbextension enable autoscroll/main
 jupyter nbextension enable init_cell/main
 jupyter nbextension enable toggle_all_line_numbers/main
 jupyter nbextension enable runtools/main
+jupyter nbextension enable splitcell/splitcell
 jupyter nbextension     enable --py --sys-prefix appmode
 jupyter serverextension enable --py --sys-prefix appmode
 jupyter nbextension enable --py --sys-prefix ipyvuetify
